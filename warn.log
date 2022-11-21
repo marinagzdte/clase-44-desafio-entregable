@@ -1,0 +1,4 @@
+[2022-11-21T16:33:26.517] [ERROR] default - Error: No se pudo eliminar el objeto de id 637bd2771c5c55f1b62fc2b6: Error: no se encontro un documento con ese id
+[2022-11-21T16:33:28.614] [ERROR] default - Error: 404 - No se encontró el elemento a actualizar.
+[2022-11-21T16:33:28.615] [ERROR] default - Error: No se pudo actualizar por id 637bd2771c5c55f1b62fc2b6: Error: 404 - No se encontró el elemento a actualizar.
+[2022-11-21T16:33:33.123] [ERROR] default - Error: No se pudo recuperar por id 637bd2771c5c55f1b62fc2b6: Error: no se encontro un documento con ese id
